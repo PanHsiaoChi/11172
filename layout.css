@@ -1,0 +1,15 @@
+/*css的註解長這樣*/
+
+h1{
+    color: #89ab78;  /*所有h1*/
+}
+
+#title{
+    color: #bb97d2; 
+}
+
+.layout{
+    color: blue;
+    font-size: 2em;
+    font-family: 'Times New Roman',"新細明體", Times, serif;
+}
